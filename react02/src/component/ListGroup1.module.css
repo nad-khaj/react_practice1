@@ -1,0 +1,16 @@
+.menu {
+  display: flex;
+  list-style: none;
+  font-size: 1.5rem;
+  color: white;
+  justify-content: space-between;
+}
+.menu_color {
+  background-color: blue;
+}
+.list_group_item {
+  padding: 20px;
+}
+.active {
+  color: crimson;
+}
